@@ -1,2 +1,2 @@
-# Fire_Robor
+# Fire_Robot
 Robot for work in fire
